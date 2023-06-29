@@ -1,2 +1,2 @@
 # Pharmacy-Management
-this project allows us to manage a pharmacy 
+this project allows us to manage a pharmacy using C++
